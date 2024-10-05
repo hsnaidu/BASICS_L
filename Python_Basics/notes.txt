@@ -8,15 +8,28 @@ Introduction to Python *(Guido van Rossum)
 
 3.  So, what ever we type is translated into Binary Language (0 & 1) with the help of 
     -> COMPILER / INTERPRETER
-    -> They convert the HIGH Level language into LOW Level language
+    -> CONVERT HIGH LVL LANG -TO- LOW LVL LANG
 
-4. Python is simple and Easy ( Similar to English Language)
-    -> Free and Open Source
-    -> High Level Language
-    -> Poratble 
+4. WHY PYTHON ? 
+
+    -> SIMPLE & EASY (Similar to English Language)
+    -> FREE & OPEN SOURCE
+    -> HIGH LVL LANG
+    -> PORTABLE  
 
 5. They are used in almost Every-Domain
 
 6. simple code : print('hello')
 
-7. 
+7. Python can process all ASCII and Unicode (ord) characters as part of data or literals
+
+8. VARIABLE -> THEY ARE A NAME GIVEN TO A MEMORY LOCATION IN PROGRAM 
+
+    8.1 RULES FOR IDENTIFIER (VARIABLE NAME)
+        -> YOU CAN ONLY USE A _ IN VARIABLE NAME 
+        -> CANNOT USE A INT AS A VARIABLE NAME 
+        -> THEY CAN BE OF ANY LENGTH
+
+9. PYTHON HAS 5 DATATYPES
+    -> INT, STRING, FLOAT, BOOLEAN, NONE
+    
