@@ -35,4 +35,5 @@ Introduction to Python *(Guido van Rossum)
     
 10. PYTHON HAS A LIST OF RSERVED WORDS, WHICH CANNOT BE USED AS A VARIABLE NAME 
 
-11.
+11. THEY ARE CASE SENSETIVE
+        -> A & a are different 
