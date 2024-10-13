@@ -1,0 +1,13 @@
+1. STRINGS 
+    -> DATATYPE - THEY STORE A SEQUENCE OF CHARACTER WITHIN " "
+        -> "hello world" , 'hello world' , """hello world"""
+
+2. ESCAPE SEQUENCE
+    -> \n : Next Line
+
+3. OPERATION OF STRINGS
+    -> 1. CONCATINATION : Adding two strings 
+        -> "hello" + "world" = "hello world"
+    
+    -> 2. LENGTH : len()
+        -> len('hello') -> 5
