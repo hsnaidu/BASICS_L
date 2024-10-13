@@ -37,3 +37,39 @@ Introduction to Python *(Guido van Rossum)
 
 11. THEY ARE CASE SENSETIVE
         -> A & a are different 
+
+12. TYPE CONVERSION AND TYPE CASTING 
+
+    -> Type Conversion : This is Automatically done in Python
+            -> a,b = 1,2.0
+            -> print(a+b) -> 3.0 (Auto. Convert to FLOAT)
+
+    -> Type Casting : This has to be done Manually 
+            -> a,b = 1,"2"
+            -> print(a+b) # Error..
+        
+        -> Here we convert the str to int or float...
+            b = int(b)
+            -> print(a+b) -> 3
+
+        -> TypeCast only works if you have a number in a string format
+        -> b = "two"
+        -> b = int(b) # Error..
+
+13. type() -> function
+WE CAN KNOW WHAT DATATYPE THE VARIABLE IS BY USING type()
+
+14. TO TAKE THE INPUT FROM THE USER USE INPUT FUNCTION
+        
+        -> The input entered from the user is always taken in string FORMAT
+    -> input() -> function
+
+        -> To get in int() , float() formate you can use 
+    -> int(input('Enter your age'))
+    -> float(intput('Enter your height))
+
+15. TERNARY OPERATOR 
+    -> They are a simple if-else condition
+    -> answer = "TRUE" if a < b else " FALSE"    
+
+
