@@ -11,3 +11,13 @@
     
     -> 2. LENGTH : len()
         -> len('hello') -> 5
+
+    -> 3. INDEXING : ACCESSED BY USIGN []
+        -> Each CHARACTER is given a POSITION (number) you can access with number, FROM 0 to n
+        -> word = "hello" -> word[0] -> h
+            -> Couts space and special_char
+    
+    -> 4. SLICING 
+        -> They are used to take subset of a word 
+        -> word[0:3] -> hel -> 3 is leftout 
+        -> word[::-1] -> Used to print INVERSE : Better used for palindrome 
