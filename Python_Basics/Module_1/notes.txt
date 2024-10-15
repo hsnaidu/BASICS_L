@@ -21,6 +21,8 @@ Introduction to Python *(Guido van Rossum)
 
 6. simple code : print('hello')
 
+    -> INDENTATION IS VERY IMPORTANT IN PYTHON
+
 7. Python can process all ASCII and Unicode (ord) characters as part of data or literals
 
 8. VARIABLE -> THEY ARE A NAME GIVEN TO A MEMORY LOCATION IN PROGRAM 
