@@ -1,0 +1,19 @@
+-> LIST AND TUPLES
+
+: LISTS are MUTABLE (You can change anything in btw) 
+    -> LIST (Array) DATASTRUCTURE
+    -> They store a set of values 
+    -> You can store a data elements of different datatype
+    -> Denoted by []
+
+LIST AND TUPLES FOLLOW SAME STRUCTURE AS A STRING 
+
+1. INDEXING 
+        -> list[0]
+2. LENGTH
+        -> len(list)
+3. APPEND
+        -> marks.append(20) # Add's Element at LAST
+4. SORT
+        -> marks.sort() # Sort's the Element 
+        -> marks.sort(reverse = True)

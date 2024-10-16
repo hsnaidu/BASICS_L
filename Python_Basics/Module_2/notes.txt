@@ -1,4 +1,7 @@
 1. STRINGS 
+
+: STRINGS are IMMUTABLE (You cannot change anything in btw) 
+
     -> DATATYPE - THEY STORE A SEQUENCE OF CHARACTER WITHIN " "
         -> "hello world" , 'hello world' , """hello world"""
 
