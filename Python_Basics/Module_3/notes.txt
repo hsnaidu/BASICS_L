@@ -17,3 +17,12 @@ LIST AND TUPLES FOLLOW SAME STRUCTURE AS A STRING
 4. SORT
         -> marks.sort() # Sort's the Element 
         -> marks.sort(reverse = True)
+5. REVERSE 
+        -> Reverse the entire list
+6. INSERT 
+        -> Insert a particular element at an index 
+7. REMOVE
+        -> Remove an element in the list 
+8. POP
+        -> Remove element at index (Similar to INSERT)
+        
