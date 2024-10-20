@@ -1,3 +1,15 @@
-DICTIONARY & SETS
+DICTIONARY & SETS [Data Structures]
 
-: DICTIONARY are Key Value Pair
+: DICTIONARY are set of Key Value Pair
+    -> They are given by {}
+    -> They key can be of int,flaot or string datatype
+    -> They are mutable and You cannot do indexing 
+    -> You cannot have duplicates
+
+---  INSTEAD OF INDEXING YOU CAN GIVE THE KEY NAME ---
+
+    -> You can creat a null dictionary : info = {}
+    -> You can alos create a nested-dictionary
+
+    -> To access the key of a nested dictionary by : Adding one more []
+    -> print(info['hobbies']['music'])
