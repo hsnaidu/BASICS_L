@@ -13,3 +13,15 @@ DICTIONARY & SETS [Data Structures]
 
     -> To access the key of a nested dictionary by : Adding one more []
     -> print(info['hobbies']['music'])
+
+METHODS IN DICTIONARY
+    1. dict.keys() - Shows all the keys
+    2. dict.values() - Shows all the values of key
+    3. dict.items() - Shows all key value pair as tuples
+    4. dict.get("key") - Returns the key according to value
+    5. dict.update(newDict) - They are used to update a new key-value pair
+
+: SETS - They are a collection of the unordered items 
+    -> Each Element in the set must be UNIQUE and IMMUTABLE 
+    -> They are immutable 
+    
