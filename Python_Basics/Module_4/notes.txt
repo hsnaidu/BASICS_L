@@ -22,6 +22,18 @@ METHODS IN DICTIONARY
     5. dict.update(newDict) - They are used to update a new key-value pair
 
 : SETS - They are a collection of the unordered items 
-    -> Each Element in the set must be UNIQUE and IMMUTABLE 
-    -> They are immutable 
-    
+    -> Each Element in the set must be UNIQUE and MUTABLE
+    -> But their elements are immutable meaning we cannot the same duplicates values 
+
+    -> YOU CANNOT STORE A LIST AND A DICTIONARY INSIDE A SETS
+
+-> DEFINING AN EMPTY SET : collection = set ()
+
+: SET HAVE DIFFERENT COLLECTION 
+    -> 1. set.add() : They are used for adding an alement 
+    -> 2. set.remove(element) : They are used for removing an element
+    -> 3. set.clear() # Clears the entire set 
+    -> 4. set.pop() # Removes a value RANDOMLY
+
+    -> set.union(set2) : Combines both set-values and Returns new 
+    -> set.intersection(set2) : Combines common values and returns a new set 
