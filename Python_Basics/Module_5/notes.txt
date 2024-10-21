@@ -1,0 +1,24 @@
+: LOOPS
+
+    -> Loops are used to repeat instructions.
+
+THEY ARE OF TWO TYPES ( FOR & WHILE )
+
+1. WHILE 
+
+    while condition:
+        # perform some work
+
+2. FOR
+
+    for condition:
+        # perform some work
+
+# SYNTAX
+
+i = 1       # Itterator
+while i <= 10:
+    print('hello')      # Itteration
+    i+=1
+
+
