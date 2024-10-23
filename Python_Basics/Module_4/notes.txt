@@ -4,7 +4,7 @@ DICTIONARY & SETS [Data Structures]
     -> They are given by {}
     -> They key can be of int,flaot or string datatype
     -> They are mutable and You cannot do indexing 
-    -> You cannot have duplicates
+    -> You cannot have duplicates : KEYS
 
 ---  INSTEAD OF INDEXING YOU CAN GIVE THE KEY NAME ---
 
@@ -14,7 +14,7 @@ DICTIONARY & SETS [Data Structures]
     -> To access the key of a nested dictionary by : Adding one more []
     -> print(info['hobbies']['music'])
 
-METHODS IN DICTIONARY
+METHODS IN DICTIONARYs
     1. dict.keys() - Shows all the keys
     2. dict.values() - Shows all the values of key
     3. dict.items() - Shows all key value pair as tuples
