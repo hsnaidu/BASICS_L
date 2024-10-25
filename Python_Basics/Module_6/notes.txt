@@ -34,3 +34,11 @@ syntax :
 
 : The functions which we write are called as a USER-DEFINED FUNCTION
 
+: DEFAULT PARAMETERS
+
+                ->
+
+
+: LAMBDA FUNCTION
+
+                ->
