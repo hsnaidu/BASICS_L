@@ -26,3 +26,11 @@ syntax :
 
                 var_name = function_two(argument)
                 var_name += 10
+
+: There are several built-in function
+        -> print()
+        -> len()
+                etc..
+
+: The functions which we write are called as a USER-DEFINED FUNCTION
+
