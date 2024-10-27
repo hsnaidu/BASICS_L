@@ -35,10 +35,10 @@ syntax :
 : The functions which we write are called as a USER-DEFINED FUNCTION
 
 : DEFAULT PARAMETERS
-
-                ->
+                -> Here you give the argument value within the brackets itself 
+                -> The default PARAMETERS must always be defined at the end    
+                        : def bio(name,age = 23) # Age is a defult parameter defined at end 
 
 
 : LAMBDA FUNCTION
-
-                ->
+                -> Anonymus function which is used only onece in the code and not many times 
