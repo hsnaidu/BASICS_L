@@ -7,3 +7,9 @@
         2. Binary Files : .mp4, .mov, .png, .jpeg etc..
 
  
+ : HOW IS THE OPERATION PERFORMED 
+
+ 1. We locate the file 
+ 2. We open the file / Create a file 
+ 3. We either Write / Read the File (r , w)
+ 4. We close the open / Created file 
