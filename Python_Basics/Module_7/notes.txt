@@ -13,3 +13,15 @@
  2. We open the file / Create a file 
  3. We either Write / Read the File (r , w)
  4. We close the open / Created file 
+
+: By default python will have read mode
+
+SOME BASIC FILE OPERATIONS
+1. 'r' -> Open for Reading (default)
+2. 'w' -> Open for Writing, Truncating the file 
+3. 'x' -> Create a new-file and open it for writing 
+4. 'a' -> Open for writing, appending to the end of the file if it exists
+5. 'b' -> Binary Mode
+6. 't' -> Text mode (default)
+7. '+' -> Open a disk file for updating (reading and writing)
+
