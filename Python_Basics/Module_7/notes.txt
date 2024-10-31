@@ -25,3 +25,15 @@ SOME BASIC FILE OPERATIONS
 6. 't' -> Text mode (default)
 7. '+' -> Open a disk file for updating (reading and writing)
 
+WHEN YOU READ THE FILE WITH THE "with" KEYWORD YOU DONT HAVE TO CLOSE THE FILE
+
+: DELETING A FILE 
+
+To delete a file you need to " import os "
+    -> os.remove (<file-path>)
+
+: To Replace a word or any character in a file 
+
+    -> We need to first read the file (data) 
+        -> Then replace and save to a new-variabel (new-data = data.replace('Java', 'Python'))
+        -> Then Write the same file 
