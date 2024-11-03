@@ -28,7 +28,10 @@ Ex: You are filling a FORM for IPS
 
 -- SO YOU CREATE A FORM (TEMPLATE) THEY ARE USED MY MANY --
 
+A Object of a given class can invoke the menthods, available to users without revealing the implementation details : ABSTRACTION & ENCAPSULATION
 
+ 
+NOTE : INSTANCE ATTRIBUTE TAKES PREFERENCE OVER CLASS ATTRIBUTE
 
 
 
