@@ -34,6 +34,11 @@ A Object of a given class can invoke the menthods, available to users without re
 NOTE : INSTANCE ATTRIBUTE TAKES PREFERENCE OVER CLASS ATTRIBUTE
 
 
+1. SELF -> We use self to make the code aware about its ATTRIBUTE
+2. @staticmethod -> We use it if any method in the class has no use of the self Object
+
+3. __init__ constructor -> They are the first thing that run as soon as the object is created
+
 
 
 
