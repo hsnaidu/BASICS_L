@@ -42,3 +42,13 @@ NOTE : INSTANCE ATTRIBUTE TAKES PREFERENCE OVER CLASS ATTRIBUTE
 
 
 
+: INHERITANCE 
+
+You have concept of BASE CLASS & INHERITED CLASS
+
+-> Inherited Class are derived for Base Class
+
+[BASE CLASS]
+  ||
+[INHERITED CLASS]
+
