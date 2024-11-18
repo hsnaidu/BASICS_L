@@ -9,14 +9,23 @@ reco = sr.Recognizer()
 # Init Enging-Parameter
 engine = pyttsx3.init()
 
-class robot:
-    
-    @staticmethod
-    def speak(txt):
-        engine.say(txt)
-        engine.runAndWait()
+def speak(txt):
+    engine.say(txt)
+    engine.runAndWait()
+        
+
+def observe():
+    with sr.Microphone() as source:
+        print('Say something')
+        audio = reco.listen(source)
+        return audio
+    try:
+        print("Sphinx thinks you said " + r.recognize_sphinx(audio))
+    except sr.UnknownValueError:
+        print("Sphinx could not understand audio")
+    except sr.RequestError as e:
+        print("Sphinx error; {0}".format(e))
 
 if __name__ == "__main__":  # This will help in runnig the script directly , If i import script into another file 
     
-    me = robot()
-    me.speak(input('enter your name : '))
+    observe()
